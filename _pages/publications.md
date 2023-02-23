@@ -14,8 +14,6 @@ For the full publication list, please kindly refer to my [Google Scholar](https:
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  Hello?
-  <!-- {% bibliography -f papers -q @*[year={{y}}]* %} -->
 {% endfor %}
 
 </div>
