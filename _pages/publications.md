@@ -10,10 +10,3 @@ nav: true
 <!-- _pages/publications.md -->
 
 For the full publication list, please kindly refer to my [Google Scholar](https://scholar.google.com/citations?user=bX8Dax0AAAAJ&hl=en&oi=ao).
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-{% endfor %}
-
-</div>
