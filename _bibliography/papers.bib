@@ -1,84 +1,54 @@
----
----
+@arxiv{https://doi.org/10.48550/arxiv.2211.13416,
+  doi = {10.48550/ARXIV.2211.13416},
+  
+  url = {https://arxiv.org/abs/2211.13416},
+  
+  author = {Xu, Mingxue and Li, Xiang-Yang},
+  
+  keywords = {Machine Learning (cs.LG), Cryptography and Security (cs.CR), Databases (cs.DB), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Data Origin Inference in Machine Learning},
 
-@string{aps = {American Physical Society,}}
+  abstract = {It is a growing direction to utilize unintended memorization in ML models to benefit real-world applications, with recent efforts like user auditing, dataset ownership inference and forgotten data measurement. Standing on the point of ML model development, we introduce a process named data origin inference, to assist ML developers in locating missed or faulty data origin in training set without maintaining strenuous metadata. We formally define the data origin and the data origin inference task in the development of the ML model (mainly neural networks). Then we propose a novel inference strategy combining embedded-space multiple instance classification and shadow training. Diverse use cases cover language, visual and structured data, with various kinds of data origin (e.g. business, county, movie, mobile user, text author). A comprehensive performance analysis of our proposed strategy contains referenced target model layers, available testing data for each origin, and in shadow training, the implementations of feature extraction as well as shadow models. Our best inference accuracy achieves 98.96% in the language use case when the target model is a transformer-based deep neural network. Furthermore, we give a statistical analysis of different kinds of data origin to investigate what kind of origin is probably to be inferred correctly.},
+  
+  code={https://github.com/Mingxue-Xu/ori},
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+  publisher = {arXiv},
+  
+  preview={../../../publication-preview/ori-pre.png},
+
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@INPROCEEDINGS{9204357,
+  author={Xu, Mingxue and Li, Xiang-Yang},
+  booktitle={2020 12th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)}, 
+  title={Subject Property Inference Attack in Collaborative Learning}, 
+  abstract = {Binding decentralized data and computing resources together, collaborative learning is a booming research area for the application requirements of efficiency and privacy. However, much work has shown that this may still expose record-level or statistical information of private local data. This paper aims to implement subject-level privacy inference during the training phase. The subject is the data source the training data comes from, such as a person or a certain environment. Based on auxiliary local data, gradient and intermediate output, we present passive and active property inference attacks on the lack of training data of the target subject. In the active attack, we choose a very innovative approach - CycleGAN that reconstructs the impacts of data with specific properties on the global model. We test our algorithms on two public image datasets and comprehensively analyze the privacy leakage in subject property inference attacks.},
+  year={2020},
+  volume={1},
+  preview={../../../publication-preview/sub-pre.png},
+  number={},
+  pages={227-231},
+  doi={10.1109/IHMSC49165.2020.00057}}
+
+  @INPROCEEDINGS {9127367,
+author = {Xiaojing Yu and Zhijun Zhou and Mingxue Xu and Xuanke You and Xiang-Yang Li},
+booktitle = {2020 IEEE International Conference on Pervasive Computing and Communications (PerCom)},
+title = {ThumbUp: Identification and Authentication by Smartwatch using Simple Hand Gestures},
+year = {2020},
+volume = {},
+issn = {},
+pages = {1-10},
+abstract = {The widespread creative application and smart devices call for convenient and secure interaction with human users. We propose, design, and implement a smartwatch-based two-factor real-time identification and authentication system named ThumbUp, where smartwatch users can identify and authenticate themselves by some simple hand and finger gestures, such as thumb-up. ThumbUp leverages the signal collected from the Inertial Measurement Unit (IMU) in Commercial Off-The-Shelf (COTS) smart devices and discovers the unique fingerprint pattern produced by each user&amp;#x2019;s simple hand gestures using a carefully crafted deep learning model. We implement our system and conduct extensive experiments to evaluate its efficacy and efficiency with 65 different users over a period of more than 3 months. It reaches an accuracy of 97% for identification, and EER 0.014 for authentication using only one simple gesture. We also survey the users&amp;#x2019; acceptance of our system and discuss how the proficiency of gestures affects authentication accuracy.},
+keywords = {deep learning;pervasive computing;system performance;authentication;thumb;robustness;real-time systems},
+doi = {10.1109/PerCom45495.2020.9127367},
+url = {https://doi.ieeecomputersociety.org/10.1109/PerCom45495.2020.9127367},
+publisher = {IEEE Computer Society},
+preview={../../../publication-preview/device-placement.png},
+address = {Los Alamitos, CA, USA},
+month = {mar}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
