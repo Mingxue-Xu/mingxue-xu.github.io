@@ -6,7 +6,7 @@ subtitle: <i> "Loyal to the Truth."</i>
 
 profile:
   align: left
-  image: avatar.JPG
+  image: avatar.JPEG
   image_circular: false # crops the image to make it circular
   address: 
     <p><b>Imperial College London</b></p>
