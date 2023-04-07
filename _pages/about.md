@@ -21,7 +21,7 @@ Hi there:D
 
 I am a second-year PhD at Imperial College London, luckily supervised by [Prof. Danilo P. Mandić](https://www.commsp.ee.ic.ac.uk/~mandic/index.htm). My current research interests are <u>Tensor-based solutions to Deep Neural Network Compression</u> and <u>Finance Modelling</u>.
 
-Previously, I obtained my BEng at China University of Petroleum - Beijing. My MEng was at University of Science and Technology of China, under the supervision of [Prof. Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en). Both my BEng and MEng are in Computer Science and Technology. At the end of 2021, I did an internship at [Baidu PaddlePaddle](https://github.com/PaddlePaddle).
+Previously, I obtained my BEng at China University of Petroleum - Beijing. My MEng was at University of Science and Technology of China, under the supervision of [Prof. Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en). Both my BEng and MEng are in Computer Science and Technology. Also I did an internship at [Baidu PaddlePaddle](https://github.com/PaddlePaddle).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
