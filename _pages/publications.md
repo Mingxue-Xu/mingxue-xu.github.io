@@ -9,4 +9,4 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 
-For the full publication list, please kindly come by my [Google Scholar](https://scholar.google.com/citations?user=bX8Dax0AAAAJ&hl=en&oi=ao).
+For the full publication list, please come by my [Google Scholar](https://scholar.google.com/citations?user=bX8Dax0AAAAJ&hl=en&oi=ao).
