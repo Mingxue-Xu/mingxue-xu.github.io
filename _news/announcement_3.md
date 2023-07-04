@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-29 17:11:23-0400
+date: 2023-07-02 12:19:23-0400
 inline: true
 ---
 
-Manuscript [Data Origin Inference in Machine Learning](https://arxiv.org/abs/2211.13416) is available online (code included).
+Recent work [Private Training Set Inspection in MLaaS](https://arxiv.org/abs/2305.09058) is featured by Montreal AI Ethics Institute [here](https://montrealethics.ai/private-training-set-inspection-in-mlaas/).
