@@ -13,15 +13,15 @@
       institution: <b>Imperial College London</b>
       year: 2022-now
       description:
-        - Tensor & Graph
+        - Matrix & Tensor
         - Deep Neural Networks
-        - Finance
+        - Financial Applications
     - title: MEng
       institution: <b>University of Science and Technology of China</b>
       year: 2018-2021
       description:
-        - IoT Sensing
         - AI Privacy and Federated Learning
+        - IoT Sensing
     - title: BEng
       institution: <b>China University of Petroleum - Beijing</b>
       year: 2014-2018
@@ -65,4 +65,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> I am a (crazy) swan lover 🦢 and a cat 🐈 person. <del>I also love travelling</del> but I am too lazy to make travel plans. Recently I get to like ducks 🦆.
+    - <u>Hobbies:</u> I am a (crazy) swan lover 🦢 and a cat 🐈 person. Recently I get to like other waterfowl 🦆, crow family 🐦‍⬛ and tiny songbirds 🎵.

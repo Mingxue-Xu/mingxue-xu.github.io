@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi there:D
 
-I am a second-year PhD at Imperial College London, luckily supervised by [Prof. Danilo P. Mandić](https://www.commsp.ee.ic.ac.uk/~mandic/index.htm). My current research interests are <u>Tensor-based solutions to Deep Neural Network Compression</u> and <u>Finance Modelling</u>.
+I am a third-year PhD at Imperial College London, luckily supervised by [Prof. Danilo P. Mandić](https://www.commsp.ee.ic.ac.uk/~mandic/index.htm). My research direction is <u>Deep Learning Model Compression based on Tensor Decomposition (Low-rank Factorization)</u>, with current a focus on neural language models.
 
 Previously, I obtained my BEng at China University of Petroleum - Beijing. My MEng was at University of Science and Technology of China, under the supervision of [Prof. Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en). Both my BEng and MEng are in Computer Science and Technology. Also I did an internship at [Baidu PaddlePaddle](https://github.com/PaddlePaddle).
 
