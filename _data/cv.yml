@@ -2,67 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Mingxue Xu
+      value: Mingxue (Mercy) Xu
+    - name: Email
+      value: '<a href="mailto:mercy.xu@facthink.com">mercy.xu@facthink.com</a>'
     - name: Languages
       value: English, Chinese (Mandarin, native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Model Compression with Algebraic Approaches
       institution: <b>Imperial College London</b>
-      year: 2022-now
+      year: 2022–2026
       description:
-        - Matrices & Tensors
-        - Mechanistic Interpretability
-        - LLM Efficiency and Applications in Finance
-    - title: MEng
+        - January 2022 – May 2026; supervised by Prof. Danilo P. Mandić.
+        - LLM compression with algebraic approaches, including tensor decomposition and structural pruning.
+        - 'Thesis: <a href="https://hdl.handle.net/10044/1/128992">Generative Language Model Compression with Algebraic Approaches</a>.'
+    - title: MEng in Computer Science and Technology
       institution: <b>University of Science and Technology of China</b>
-      year: 2018-2021
+      year: 2018–2021
       description:
+        - September 2018 – July 2021; supervised by Prof. Xiang-Yang Li.
         - AI Privacy and Federated Learning
         - IoT Sensing
-    - title: BEng
+        - 'Thesis: Set-level Membership Inference in Deep Learning Systems.'
+    - title: BEng in Computer Science and Technology
       institution: <b>China University of Petroleum - Beijing</b>
-      year: 2014-2018
+      year: 2014–2018
       description:
-        - Graduate Project - "UAV Craft Tracking System Based on Vision Target Detection and Tracking"
+        - September 2014 – July 2018; ranked first in the department.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Intern
+    - title: Founder
+      institution: '<a href="https://facthink.com/">Facthink LTD</a>'
+      year: 2026–now
+      description:
+        - Since May 2026, building Graph-Hypoth, a multi-agent hypothesis generation system that develops research claims into candidate hypotheses and literature-grounded experiment plans.
+        - Seven specialised agents work over a shared claim graph to review evidence, propose and critique hypotheses, and design experiments, with fixed aggregation rules and versioned records for audit.
+    - title: PhD Researcher
+      institution: Imperial College London, Department of Electrical and Electronic Engineering
+      year: 2022–2026
+      description:
+        - Used representation dimension to estimate language model performance after structural pruning.
+        - Developed a unified taxonomy of matrix and tensor factorisation for generative language model compression.
+        - Compressed GPT-series models with tensor decomposition and deployed them on resource-constrained devices, including Raspberry Pi.
+        - 'Applied membership inference to dataset legitimacy assessment in MLaaS; this work was <a href="https://montrealethics.ai/private-training-set-inspection-in-mlaas/">featured by the Montreal AI Ethics Institute</a>.'
+    - title: Technical Product Manager (Intern)
       institution: Baidu PaddlePaddle
       year: 2021
       description:
-        - Automatic Speech Recognition and Text-to-Speech in <a href="https://github.com/PaddlePaddle/PaddleSpeech">PaddleSpeech</a>
+        - October – December 2021.
+        - Co-authored a paper on the product design of PaddlePaddle, a deep learning platform for users with technical and non-technical backgrounds.
+    - title: MEng Research, LINKE Lab
+      institution: University of Science and Technology of China
+      year: 2018–2021
+      description:
+        - April 2018 – June 2021.
+        - Implemented subject property inference in federated learning with CycleGAN.
+        - Implemented lightweight LSTM models on smartwatches for identification and authentication from accelerometer and gyroscope gesture signals.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/Mingxue-Xu/ori">ori</a>
-      year: 2022-now
-      description: The code of the paper "Data Origin Inference in Machine Learning".
+    - title: '<a href="https://github.com/Mingxue-Xu/llm-profiler">llm-profiler</a>'
+      description:
+        - A fine-grained, layer-level LLM profiler that counts arithmetic operations, parameters, temporary buffers, and activations.
+    - title: '<a href="https://github.com/Mingxue-Xu/ori">ori</a>'
+      description:
+        - The code of the paper "Data Origin Inference in Machine Learning".
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019-2021
+    - year: 2019–2021
       items:
-        - First Prize Scholarship in University of Science and Technology of China
+        - First Prize Scholarship in University of Science and Technology of China (2019, 2020, 2021)
     - year: 2018
-      items: 
-        - Beijing Outstanding Graduate Student
-        - Outstanding Graduate Project of China University of Petroleum - Beijing
+      items:
+        - Outstanding Graduate Student of Beijing
     - year: 2016
-      items: 
-        - Meritorious Winner in Mathematical Contest in Modeling, U.S (top 10%).
+      items:
+        - Meritorious Winner in Mathematical Contest in Modeling, U.S. (top 10%)
     - year: 2015, 2016
-      items: 
-        - National Scholarship of China (ranked 1st in the department)
-    
+      items:
+        - National Scholarship of China (ranked first in the department)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> I am a (crazy) swan lover 🦢 and a cat 🐈 person. Recently I get to like other waterfowl, crow family and tiny songbirds.
+    - <u>Hobbies:</u> I am a (crazy) swan lover 🦢 and a cat 🐈 person. I also like other waterfowl, the crow family and tiny songbirds.
