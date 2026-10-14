@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i> "Practically idealistic :D"</i>
+subtitle: Practically idealistic.
 description: Mingxue (Mercy) Xu researches efficient language models and builds Graph-Hypoth, a multi-agent system for scientific discovery. Imperial College London PhD. Open to industry research scientist and research engineer roles.
 
 profile:
@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Heyyyyyyyy!
+Heyyyyyyyy thanks for visiting me:D
 
 I completed my PhD at Imperial College London in May 2026, supervised by [Prof. Danilo P. Mandić](https://www.commsp.ee.ic.ac.uk/~mandic/index.htm). My research focuses on [Generative Language Model Compression with Algebraic Approaches](https://hdl.handle.net/10044/1/128992), including tensor decomposition, structural pruning, and deployment on resource-constrained devices (e.g. Raspberry Pi).
 
