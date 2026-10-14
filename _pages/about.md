@@ -20,6 +20,6 @@ I completed my PhD at Imperial College London in May 2026, supervised by [Prof. 
 
 I am also the founder of [Facthink](https://facthink.com/), building [Graph-Hypoth](https://github.com/Mingxue-Xu/graph-hypoth), a multi-agent system that develops research claims into candidate hypotheses and literature-grounded experiment plans.
 
-**I am currently on the job market, looking at the intersection of research and engineering.** Please do [keep in touch](mailto:mmercyxu@outlook.com) for any potential opportunities!
+*I am currently on the job market, looking at the intersection of research and engineering.* Please do [keep in touch](mailto:mmercyxu@outlook.com) for any potential opportunities!
 
-Previously, I obtained my BEng at China University of Petroleum - Beijing, and did my MEng at University of Science and Technology of China, under the supervision of [Prof. Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en). Both my BEng and MEng are in Computer Science and Technology. I also interned at [Baidu PaddlePaddle](https://github.com/PaddlePaddle) as a technical product manager, serving for the developer communities of [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech).
+Previously, I obtained my BEng at China University of Petroleum - Beijing, and did my MEng at University of Science and Technology of China, under the supervision of [Prof. Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ&hl=en). Both my BEng and MEng are in Computer Science and Technology. I also interned at [Baidu PaddlePaddle](https://github.com/PaddlePaddle) as a technical product manager, serving for the developer community of [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech).
